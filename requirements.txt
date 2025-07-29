@@ -1,0 +1,5 @@
+07.29 6:13 PM
+Flask
+python-dotenv
+cloudinary
+Flask-Cors
